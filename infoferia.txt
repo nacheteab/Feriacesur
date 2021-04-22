@@ -1,0 +1,44 @@
+* commit b92e7e4f44dbe0f3b3436e85c284c48ac347722d (HEAD -> master, nacheteab/master)
+| Author: nacheteab <82811601+nacheteab@users.noreply.github.com>
+| Date:   Thu Apr 22 08:52:24 2021 +0200
+| 
+|     Segunda prueba
+| 
+* commit e8f019bebd911cd84d349277304ae160c35a4f9c (cocina_caseta)
+| Author: nacheteab <82811601+nacheteab@users.noreply.github.com>
+| Date:   Thu Apr 22 08:34:43 2021 +0200
+| 
+|     Comida V2
+| 
+* commit a881f4f0fd434e34b724cce722148811f977dfbc
+| Author: nacheteab <82811601+nacheteab@users.noreply.github.com>
+| Date:   Thu Apr 22 08:34:10 2021 +0200
+| 
+|     Cocina V1
+| 
+* commit 6a5af3e55f779ed9f94fb630585a97570ac5be07
+| Author: nacheteab <82811601+nacheteab@users.noreply.github.com>
+| Date:   Thu Apr 22 08:32:27 2021 +0200
+| 
+|     Precios V1
+| 
+* commit 5330a6f658d971f047f4549c89ef746881fc66fc
+| Author: nacheteab <82811601+nacheteab@users.noreply.github.com>
+| Date:   Thu Apr 22 08:31:15 2021 +0200
+| 
+|     Proyecto V2
+| 
+* commit 5a3e032c42f2fd22565c3f82cf3ad076f1029b08
+  Author: nacheteab <82811601+nacheteab@users.noreply.github.com>
+  Date:   Thu Apr 22 08:30:45 2021 +0200
+  
+      Proyecto V1
+b92e7e4 HEAD@{0}: commit: Segunda prueba
+e8f019b HEAD@{1}: merge cocina_caseta: Fast-forward
+6a5af3e HEAD@{2}: checkout: moving from cocina_caseta to master
+e8f019b HEAD@{3}: commit: Comida V2
+a881f4f HEAD@{4}: commit: Cocina V1
+6a5af3e HEAD@{5}: checkout: moving from master to cocina_caseta
+6a5af3e HEAD@{6}: commit: Precios V1
+5330a6f HEAD@{7}: commit: Proyecto V2
+5a3e032 HEAD@{8}: commit (initial): Proyecto V1
